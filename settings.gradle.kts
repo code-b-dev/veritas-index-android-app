@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "veritasIndex"
-include(":app")
- 
+include(":launcher", ":presentation", ":domain", ":data")
