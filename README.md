@@ -22,12 +22,12 @@ Agentic-AI 기반 사실 확인 시스템
 ## Tech Stack
 ### Tool Chain
 - JDK: 17
-- AGP: 8.13
-- Gradle: 8.13
+- AGP: 8.13.0
+- Gradle: 8.13.0
 
 ### Android SDK
 - Compile SDK: 36
-- Target SDK: 35
+- Target SDK: 36
 
 ### Skills
 - Language: Kotlin
